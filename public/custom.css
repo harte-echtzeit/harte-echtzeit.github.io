@@ -9,6 +9,8 @@
     "Helvetica Neue", sans-serif;
   --mono-font: Consolas, Menlo, Monaco, "Andale Mono", "Ubuntu Mono", monospace;
   --standard-border-radius: 5px;
+  --my-font: Jost;
+
 
   /* Default (light) theme */
   --bg: #fff6d5ff;
@@ -50,7 +52,8 @@ progress {
 
 html {
   /* Set the font globally */
-  font-family: var(--sans-font);
+    /*font-family: var(--sans-font);*/
+    font-family: var(--my-font);
   scroll-behavior: smooth;
 }
 

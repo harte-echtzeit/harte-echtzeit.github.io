@@ -21,7 +21,7 @@
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
       ;; org-html-head "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />")
-      org-html-head "<link rel=\"stylesheet\" href=\"custom.css\">")
+      org-html-head "<link rel=\"stylesheet\" href=\"custom.css\"> <link rel=\"stylesheet\" href=\"https://indestructibletype.com/fonts/Jost.css\" type=\"text/css\" charset=\"utf-8\" />")
 
 ;; Generate the site output
 (org-publish-all t)
