@@ -13,17 +13,20 @@ workshops and other events himself.
 ** =>sonic experiments
 *** gravitational waves
 it took about 100 years for Einsteins prediction to become true, but in 2015 gravitational waves were detected for the first time by the [[https://advancedligo.mit.edu/][Advanced LIGO]] instrument. these waves coming from the depths of space, carry energy and information about the history of the universe and hit us on a daily basis. with my project [[https://github.com/harte-echtzeit/the_gw_ep][Gravitational Wave Field Recordings (GWFR)]], I use audio samples of detected gravitational waves and transform them into musique concréte-inspired pieces of sonic art. by utilizing techniques of live coding, I perform music with computer code which conveys the history of gravitational wave detection and the deep space. the music helps us to travel through space and time with rhythmic patterns, mysterious sound textures and experimental structures. the tracks explore space and time in a minimal yet sometimes dreamy as well as danceble way.
-demo tracks can be found here, the project started in 2023 and is currently part of my live set. it is not yet released as a record.
+demo tracks can be found here, the project started in 2023 and is currently part of my live set.
+it will be released via [[https://callitanythingrecords.bandcamp.com/][Call It Aything Records]] as [[https://callitanythingrecords.bandcamp.com/album/ji-k-kan][ji kū kan]] on September 14th digitally and as a limited edition cassette tape.
 *** what is a nanoloop?
 [[https://nanoloop.com/][nanoloop]] is a neat and minimal graphic step sequencer for the Gameboy plattform written by Oliver Wittchow. many thanks to oliver for the tool.
 
 currently, I'm exploring what a ~nanoloop~ means and how I want to work with it. some tracks are written and might get recorded soon.
 
 ** =>live
+- 2024-09-14 /*ji kū kan*/ release party, tba.
+- 2024-09-07 talk and gig @ [[https://www.werkraum.space/wiki/ckg:start][10 Jahre Polytechnischer Werkraum]], Zittau/DE
+- 2024-08-31 show&tell of GW music @ [[https://www.geo600.org/openday24][OpenDay]] at GEO600 Gravitational-wave detector, Hannover/DE
 - 2024-06-21 together with my friend MC Algorhythm as /Glitchcore Brüder/ @ Fête de la Musique Zwickau/DE
 - 2024-06-14->16 [[https://futur-aaa.com/][futur AAA]], live coding festival, organizer, Zwickau/DE
-- 2024-05-25 GW live set @ Toplap Asia ICLC stream, online
-
+- 2024-05-25 GW live set @ Toplap Asia ICLC stream, online [[[https://archive.org/details/toplap-asia-may2024-harte-echtzeit][video]]]
 - 2024-04-20 GW live set @ VIU festival, Sala Vol, Barcelona/ES [[[https://www.youtube.com/watch?v=xAdQEg-Alf8][video]]]
 - 2024-03-30 jaming GW @ z-Labor hackerspace Zwickau/DE
 - 2024-02-23 GW live set @ Toplap20 stream, online [[[https://youtu.be/U2xDSY_8VwE?feature=shared][video]]]
