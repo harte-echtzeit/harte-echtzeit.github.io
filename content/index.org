@@ -45,6 +45,7 @@ This is a notation for Tidal Cycles which helps me to write tracks for live play
 ** =>contact & connections
 + booking and questions: =info[at]harte-echtzeit.com= 
 + plattforms:
+  - [[https://github.com/harte-echtzeit][github]]
   - [[https://sonomu.club/@harte_echtzeit][mastodon]]
   - [[https://www.instagram.com/harte_echtzeit/][Instagram]]
 + MC Algorythmn is my partner-in-crime in our  project /Glitchcore Brüder/
