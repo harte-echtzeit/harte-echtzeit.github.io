@@ -8,19 +8,20 @@ of emotional way which allows for inspiration to flow. he is working
 with algorithms, data, live coding and music since 2022. a series of
 gravitational wave field recordings is HEs first album-length
 performance. he is loosely related to German live coding hubs such as
-LOL2 in Leipzig as well as [[https://social.toplap.org/@toplap_dus][Toplap Düsseldorf]] and organizes algoraves,
+LOL2 in Leipzig as well as [[https://futur-aaa.com/][futur AAA]] and organizes algoraves,
 workshops and other events himself.
 ** =>sonic experiments
 *** gravitational waves
 it took about 100 years for Einsteins prediction to become true, but in 2015 gravitational waves were detected for the first time by the [[https://advancedligo.mit.edu/][Advanced LIGO]] instrument. these waves coming from the depths of space, carry energy and information about the history of the universe and hit us on a daily basis. with my project [[https://github.com/harte-echtzeit/the_gw_ep][Gravitational Wave Field Recordings (GWFR)]], I use audio samples of detected gravitational waves and transform them into musique concréte-inspired pieces of sonic art. by utilizing techniques of live coding, I perform music with computer code which conveys the history of gravitational wave detection and the deep space. the music helps us to travel through space and time with rhythmic patterns, mysterious sound textures and experimental structures. the tracks explore space and time in a minimal yet sometimes dreamy as well as danceble way.
-demo tracks can be found here, the project started in 2023 and is currently part of my live set.
-it will be released via [[https://callitanythingrecords.bandcamp.com/][Call It Aything Records]] as [[https://callitanythingrecords.bandcamp.com/album/ji-k-kan][ji kū kan]] on September 14th, 2024 digitally and as a limited edition cassette tape.
+A set of tracks was released as the album [[https://callitanythingrecords.bandcamp.com/album/ji-k-kan][ji kū kan]] on September 14th, 2024 via [[https://callitanythingrecords.bandcamp.com/][Call It Aything Records]]. It is available digitally and as a limited edition cassette tape.
 *** what is a nanoloop?
 [[https://nanoloop.com/][nanoloop]] is a neat and minimal graphic step sequencer for the Gameboy plattform written by Oliver Wittchow. many thanks to oliver for the tool.
 
 currently, I'm exploring what a ~nanoloop~ means and how I want to work with it. some tracks are written and might get recorded soon.
 
 ** =>live
+- 2025-02-01 /*ji kū kan*/ jam session @ Corvallis/OR, USA
+- 2025-01-31 /*ji kū kan*/ gig and talk @ [[https://www.ligo.caltech.edu/WA/page/lho-tours-and-events][LIGO]] Observatory Hanford/WA, USA 
 - 2024-09-20 /*ji kū kan*/ release party @ [[http://itr.root.sx/upcoming/2024-09-20][Pracht]], Leipzig/DE
 - 2024-09-07 talk and gig @ [[https://www.werkraum.space/wiki/ckg:start][10 Jahre Polytechnischer Werkraum]], Zittau/DE
 - 2024-08-31 GW live set during [[https://www.hannover.de/Kultur-Freizeit/Museen-Ausstellungen/Bildende-Kunst/ZINNOBER][Zinnober]] @ Atelier [[http://meike-zopf.de/][Meike Zopf]] ([[https://www.eisfabrik.com/][Eisfabrik]]), Hannover/DE
