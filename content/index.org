@@ -7,8 +7,7 @@ harte echtzeit (HE) is a scientist whos mind is bend in a strange sort
 of emotional way which allows for inspiration to flow. he is working
 with algorithms, data, live coding and music since 2022. a series of
 gravitational wave field recordings is HEs first album-length
-performance. he is loosely related to German live coding hubs such as
-LOL2 in Leipzig as well as [[https://futur-aaa.com/][futur AAA]] and organizes algoraves,
+performance. he is based in Melbourne, Australia and loosely connected to German and Spanish live coding hubs. he is one co-founder of [[https://futur-aaa.com/][futur AAA festival]] and organizes algoraves,
 workshops and other events himself.
 ** =>sonic experiments
 *** gravitational waves
@@ -20,6 +19,7 @@ A set of tracks was released as the album [[https://callitanythingrecords.bandca
 currently, I'm exploring what a ~nanoloop~ means and how I want to work with it. some tracks are written and might get recorded soon.
 
 ** =>live
+- 2025-06-01 *ji kū kan* gig @ [[https://iclc.toplap.org/2025/][ICLC 2025]] post-conference show, [[https://www.niubcn.com/][niu : espai artístic contemporani]], Barcelona, Spain
 - 2025-02-01 /*ji kū kan*/ jam session @ Corvallis/OR, USA
 - 2025-01-31 /*ji kū kan*/ gig and talk @ [[https://www.ligo.caltech.edu/WA/page/lho-tours-and-events][LIGO]] Observatory Hanford/WA, USA 
 - 2024-09-20 /*ji kū kan*/ release party @ [[http://itr.root.sx/upcoming/2024-09-20][Pracht]], Leipzig/DE
@@ -49,6 +49,6 @@ This is a notation for Tidal Cycles which helps me to write tracks for live play
   - [[https://github.com/harte-echtzeit][github]]
   - [[https://sonomu.club/@harte_echtzeit][mastodon]]
   - [[https://www.instagram.com/harte_echtzeit/][Instagram]]
-+ MC Algorythmn is my partner-in-crime in our  project /Glitchcore Brüder/
++ [[https://www.instagram.com/mc_algorhythm?igsh=ZmE5MWpyNTA0ZzVj][MC Algorhythm]] is my partner-in-crime in our  project /Glitchcore Brüder/
 + [[https://futur-aaa.com/][futur AAA]] is a live coding festival, I co-organize.
 + [[https://callitanythingrecords.bandcamp.com/][Call It Aything Records]] is the label I release with.
