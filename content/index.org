@@ -7,7 +7,7 @@ harte echtzeit (HE) is a scientist and sonic artist who works with  algortihms, 
 
 HE's interest is mainly in the interplay of abstract sounds and concrete, rhythmic structures. his music is driven by scientific data which seems to have no history or imagination on a human scale but rather on larger more complex scales in space and time. capturing the vast journey, time and energy which encompasses events that, for example emit gravitational waves, while also finding ways to communicate about it in a human scale language, plays a central role in HE's work. as a result, it leads to compositions which explore and experiment with sounds and soundscapes but also let rhythmic or melodic structures sneek in from time to time.  
 
-he is currently based in Melbourne, Australia and loosely connected to German and Spanish live coding hubs. he is one co-founder of [[https://futur-aaa.com/][futur AAA festival]] and organizes algoraves,
+he is currently based in Naarm/Melbourne, Australia and loosely connected to German and Spanish live coding hubs. he is one co-founder of [[https://futur-aaa.com/][futur AAA festival]] and organizes algoraves,
 workshops and other events himself.
 ** =>sonic experiments
 *** gravitational waves
@@ -26,10 +26,13 @@ some tracks of the album were featured in radio shows and discussed in blogs [[[
 currently, I'm exploring what a ~nanoloop~ means and how I want to work with it. some tracks are written and might get recorded soon.
 
 ** =>live
+- 2026-07-16 *ji kū kan* gig and artist talk @ RMIT University, Melbourne, Australia
+- 2026-03-17 improv gig with [[https://www.kastagency.com/artists/nu][Nū]] @ [[https://makeitupclub.blogspot.com/p/about.html][Make It Up Club]], Bar Open, Melbourne, Australia
+- 2026-01-18 *ji kū kan* gig @ [[https://www.soniare.net/blog/aquatic-algorave-sf-january-2026][Aquatic Algorave]], [[https://www.tiat.place/][tiat.place]], San Francisco, USA [[[https://www.youtube.com/watch?v=2Ne7VBgT9YE][video]]]
 - 2025-06-01 *ji kū kan* gig @ [[https://iclc.toplap.org/2025/][ICLC 2025]] post-conference show, [[https://www.niubcn.com/][niu : espai artístic contemporani]], Barcelona, Spain
-- 2025-02-01 /*ji kū kan*/ jam session @ Corvallis/OR, USA
-- 2025-01-31 /*ji kū kan*/ gig and talk @ [[https://www.ligo.caltech.edu/WA/page/lho-tours-and-events][LIGO]] Observatory Hanford/WA, USA 
-- 2024-09-20 /*ji kū kan*/ release party @ [[http://itr.root.sx/upcoming/2024-09-20][Pracht]], Leipzig/DE
+- 2025-02-01 *ji kū kan* jam session @ Corvallis/OR, USA
+- 2025-01-31 *ji kū kan* gig and talk @ [[https://www.ligo.caltech.edu/WA/page/lho-tours-and-events][LIGO]] Observatory Hanford/WA, USA 
+- 2024-09-20 *ji kū kan* release party @ [[http://itr.root.sx/upcoming/2024-09-20][Pracht]], Leipzig/DE
 - 2024-09-07 talk and gig @ [[https://www.werkraum.space/wiki/ckg:start][10 Jahre Polytechnischer Werkraum]], Zittau/DE
 - 2024-08-31 GW live set during [[https://www.hannover.de/Kultur-Freizeit/Museen-Ausstellungen/Bildende-Kunst/ZINNOBER][Zinnober]] @ Atelier [[http://meike-zopf.de/][Meike Zopf]] ([[https://www.eisfabrik.com/][Eisfabrik]]), Hannover/DE
 - 2024-08-31 show&tell of GW music @ [[https://www.geo600.org/openday24][OpenDay]] at GEO600 Gravitational-wave detector, Hannover/DE
