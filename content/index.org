@@ -27,8 +27,11 @@ i have written a short text about my work in [[https://ligo.org/magazine/][LIGO 
 currently, I'm exploring what a ~nanoloop~ means and how I want to work with it. some tracks are written and might get recorded soon.
 
 ** =>live
-- *2026-10-01* WP8 as part of [[https://micropopweek.org/][MicroPopWeek 2026]], Düsseldorf, Germany
-- *2026-07-16* ji kū kan gig and artist talk @[[https://events.humanitix.com/lp13-harte-echtzeit][Listening Practice LP13]] RMIT University, Melbourne, Australia
+- *2026-11-29* Experimental Sounds by Many Hands Make at Pride of Our Footscray Bar, Footscray, Australia
+- *2026-11-06|08* HYPERSPACE Live Coding Festival, curator and co-organiser, Melbourne, Australia
+- 2026-10-11 Clan Analougue [[https://www.clananalogue.org/featured/clan-analogue-presents-emerge-at-bar-303-2/][EMERGE]]  as part of [[https://www.melbournefringe.com.au/whats-on/events/clan-analogue-presents-emerge][Melbourne Fringe Festival]], Bar 303, Northcote, Australia
+- 2026-10-01 WP8 as part of [[https://micropopweek.org/][MicroPopWeek 2026]], Düsseldorf, Germany
+- 2026-07-16 ji kū kan gig and artist talk @[[https://events.humanitix.com/lp13-harte-echtzeit][Listening Practice LP13]] RMIT University, Melbourne, Australia
 - 2026-03-17 improv gig with [[https://www.kastagency.com/artists/nu][Nū]] + [[https://www.melaniehuang.com/][d.dadut]] @ [[https://makeitupclub.blogspot.com/p/about.html][Make It Up Club]], Drill Hall Footscray, Melbourne, Australia
 - 2026-01-18 ji kū kan gig @ [[https://www.soniare.net/blog/aquatic-algorave-sf-january-2026][Aquatic Algorave]], [[https://www.tiat.place/][tiat.place]], San Francisco, USA [[[https://www.youtube.com/watch?v=2Ne7VBgT9YE][video]]]
 - 2025-06-01 ji kū kan gig @ [[https://iclc.toplap.org/2025/][ICLC 2025]] post-conference show, [[https://www.niubcn.com/][niu : espai artístic contemporani]], Barcelona, Spain
