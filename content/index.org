@@ -28,7 +28,7 @@ currently, I'm exploring what a ~nanoloop~ means and how I want to work with it.
 
 ** =>live
 - *2026-11-29* Experimental Sounds by Many Hands Make at Pride of Our Footscray Bar, Footscray, Australia
-- *2026-11-06|08* HYPERSPACE Live Coding Festival, curator and co-organiser, Melbourne, Australia
+- *2026-11-06|08* [[https://events.humanitix.com/hyperspace][HYPERSPACE]] Live Coding Festival, curator and co-organiser, Melbourne, Australia
 - 2026-10-11 Clan Analougue [[https://www.clananalogue.org/featured/clan-analogue-presents-emerge-at-bar-303-2/][EMERGE]]  as part of [[https://www.melbournefringe.com.au/whats-on/events/clan-analogue-presents-emerge][Melbourne Fringe Festival]], Bar 303, Northcote, Australia
 - 2026-10-01 WP8 as part of [[https://micropopweek.org/][MicroPopWeek 2026]], Düsseldorf, Germany
 - 2026-07-16 ji kū kan gig and artist talk @[[https://events.humanitix.com/lp13-harte-echtzeit][Listening Practice LP13]] RMIT University, Melbourne, Australia
